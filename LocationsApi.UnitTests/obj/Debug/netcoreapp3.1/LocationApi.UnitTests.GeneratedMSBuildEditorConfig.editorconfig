@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LocationApi.UnitTests
+build_property.ProjectDir = C:\Repos\LocationsApi\LocationApi.UnitTests\

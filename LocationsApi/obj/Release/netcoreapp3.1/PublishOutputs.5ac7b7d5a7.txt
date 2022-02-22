@@ -1,0 +1,12 @@
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\LocationsApi.exe
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\LocationsApi.dll
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\LocationsApi.deps.json
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\LocationsApi.runtimeconfig.json
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\LocationsApi.pdb
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\CsvHelper.dll
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repos\LocationsApi\LocationsApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
